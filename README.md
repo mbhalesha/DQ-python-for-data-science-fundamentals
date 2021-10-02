@@ -1,1 +1,1 @@
-# DQ-python-for-data-science-fundaments
+# DQ-python-for-data-science-fundamentals
